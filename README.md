@@ -30,14 +30,14 @@ the new node to hold. Watch as the animation adds the node to the tree. In this
 case, green represents the node that was just added. To pan on the visualization,
 click and drag. To zoom in and out on the visualization, scroll up or down.
 
-![Single node](/photos/singlenode.png)
+![Single node](/photos/singlenode.PNG)
 
 Click the **Add** button a few more times to add more nodes to the tree, and
 watch as their insertion is animated. To make the animation progress faster,
 move the **Animation Speed** slider farther to the right. Blue represents nodes
 that must be visited to insert the node into the correct location
 
-![Multiple nodes](/photos/manynodes.png)
+![Multiple nodes](/photos/manynodes.PNG)
 
 To watch the binary tree search for a value in itself, slick the **Search**
 button, and enter an integer that you previously inserted into the tree. Blue
@@ -46,7 +46,7 @@ of the tree where the value will not be found, and green represents the node
 that was being searched for. Note that if no node is green, the value was not
 found.
 
-![Search Example](/photos/search.png)
+![Search Example](/photos/search.PNG)
 
 To clear the entire tree, click the **Clear** button. This will make your screen
 appear as it did when the visualization was first opened
@@ -60,7 +60,7 @@ If you do not want to wait for the insertion animation, click the **Quick Fill**
 button, which functions the same as the **Fill** button, but does not animate
 the insertion process. *Note: this also clears the current tree*
 
-![Fill Example](/photos/fill.png)
+![Fill Example](/photos/fill.PNG)
 
 ## Code Structure
 * **Node.js** - Defines the Node class, the building block of the binary tree.
