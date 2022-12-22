@@ -23,7 +23,7 @@ from Carnegie Mellon University
 
 When the visualization is first opened, the screen will be empty
 
-![Blank visualization](/photos/blank.png)
+![Blank visualization](/photos/blank.PNG)
 
 To add a node to the tree, click the **Add** button, and enter an integer for
 the new node to hold. Watch as the animation adds the node to the tree. In this
