@@ -1,0 +1,40 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+button {
+  padding: 4px;
+  border-radius: 8px;
+  margin: 0px 8px;
+  min-width: 64px;
+  background: linear-gradient(#fff, rgb(37, 37, 37));
+}
+
+button:hover{
+  cursor: pointer;
+
+}
+#controls {
+  width: 100%;
+  margin:10px auto;
+  position: absolute;
+  padding: 16px;
+  top: 0px;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+
+#speed-label,
+#help-label {
+  line-height: 200%;
+  padding: 0px 8px;
+  color: rgb(254, 254, 254);
+  font-family: sans-serif;
+}
